@@ -1,4 +1,11 @@
 {
+  "users":[
+    {
+      "id":1,
+      "fname":"Oliver",
+      "lname":"smith"
+    }
+  ],
   "posts": [
     {
     "id": 1,
