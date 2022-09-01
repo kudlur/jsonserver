@@ -4,6 +4,11 @@
       "id":1,
       "fname":"Oliver",
       "lname":"smith"
+    },
+    {
+      "id":2,
+      "fname":"Raja",
+      "lname":"Achari"
     }
   ],
   "posts": [
