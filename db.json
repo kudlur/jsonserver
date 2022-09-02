@@ -1,4 +1,9 @@
 {
+  "mastercontracts":[
+      {"mcnumber":"123-34-343"},
+      {"mcnumber":"123-34-343"},
+      {"mcnumber":"123-34-343"}
+    ],
   "users":[
     {
       "id":1,
